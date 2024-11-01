@@ -1,6 +1,6 @@
 sudo apt-get update && sudo apt-get upgrade -y
 
-sudo apt install zsh tmux xclip git -y
+sudo apt install zsh tmux xclip git curl vim -y
 
 sudo curl -L http://install.ohmyz.sh | sh
 
